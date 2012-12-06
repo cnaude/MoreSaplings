@@ -1,0 +1,5 @@
+name: MoreSaplings
+version: 1.0.0
+description: Adjust sapling drop rates
+author: cnaude
+main: me.cnaude.plugin.MoreSaplings.MSMain

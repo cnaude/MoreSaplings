@@ -1,0 +1,5 @@
+# Enter a value between 0 and 100  to change the default drop rate. Enter -1 to leave default.
+oak-drop-chance: -1
+spruce-drop-chance: -1
+birch-drop-chance: -1
+jungle-drop-chance: -1
